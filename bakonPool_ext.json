@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon",
+        "url_png_logo": "http(s) url to pool logo",
+        "location": "USA",
+        "social": {
+            "twitter_handle": "anotherVariable",
+            "telegram_handle": "bakon3",
+            "github_handle": "lowskidev"
+        },
+        "company": {
+            "name": "LowSki",
+        },
+        "about": {
+            "me": "Bakon(BKN)",
+            "server": "Custom bare metal with a type 1 hypervisor.",
+            "company": "LowSki"
+        }
+    },
+    "my-pool-ids": [
+        "31d1d830873e05316b9a4b549617dc4a380b775e5431dfc13d312d88"
+    ],
+    "when-satured-then-recommend": [
+        "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+    ],
+    "telegram-admin-handle": [
+        "bakon3"
+    ]
+}
