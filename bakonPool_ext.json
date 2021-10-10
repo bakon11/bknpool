@@ -6,22 +6,22 @@
         "social": {
             "twitter_handle": "anotherVariable",
             "telegram_handle": "bakon3",
-            "github_handle": "lowskidev"
+            "github_handle": "bakon11"
         },
         "company": {
-            "name": "LowSki",
+            "name": "LowSki LLC",
         },
         "about": {
             "me": "Bakon(BKN)",
-            "server": "Custom bare metal with a type 1 hypervisor.",
+            "server": "Bare metal server, dual ISP and RAID10 setup for performance efficiency.",
             "company": "LowSki"
         }
     },
     "my-pool-ids": [
-        "31d1d830873e05316b9a4b549617dc4a380b775e5431dfc13d312d88"
+        "ccd49f727e6447225c16ca0fe6abd3642d4e8e736768b11a275bfe16"
     ],
     "when-satured-then-recommend": [
-        "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+        "00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5"
     ],
     "telegram-admin-handle": [
         "bakon3"
